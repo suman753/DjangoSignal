@@ -10,7 +10,7 @@ Answer: Yes, signals run in the same transaction unless handled asynchronously.
 How to Run This Project:
 
 1.Clone the Repository
-git clone https://github.com/your-username/signals_project.git
+git clone https://github.com/suman753/DjangoSignal.git
 cd signals_project
 
 2.Install Dependencies
